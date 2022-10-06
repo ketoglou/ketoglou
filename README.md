@@ -8,7 +8,6 @@
 <hr/>
 <h4 align="center">Experienced Electronic Engineer with a demonstrated history of working in the Embedded Industry. Abilities in Hardware Design, Soldering, PCB Design, Microcontrollers, Firmware, Software. Bare metal coding for every MCU architecture. Experience with Radio Frequency Projects. Skills to work with a number of Programming Languages. Android Software Development. Linux/Windows Software Developing(GUI). Experience with a lot of Lab Equipment.</h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=candida18&label=Profile%20views&color=0e75b6&style=plastic" alt="candida18" /> </p>
 
 ### 🛠️ Programming languages
 
