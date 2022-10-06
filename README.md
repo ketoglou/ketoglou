@@ -1,5 +1,5 @@
 
-<h1 align="center">Xaris Ketoglou <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Xaris Ketoglou <img src="https://i.gifer.com/7qbG.mp4" width="35"></h1>
 <p align="center">
 <a><img src="https://cdn-icons-png.flaticon.com/512/2752/2752878.png"></a>
 </p>
