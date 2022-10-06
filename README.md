@@ -1,7 +1,7 @@
 
 <h1 align="center">Xaris Ketoglou <img src="https://i.gifer.com/7qbG.mp4" width="35"></h1>
 <p align="center">
-<a><img src="https://cdn-icons-png.flaticon.com/512/2752/2752878.png"></a>
+<a><[MCU](profile_img/mcu_circuit.gif)></a>
 </p>
 <hr/>
 <h4 align="center">Experienced Electronic Engineer with a demonstrated history of working in the Embed-
@@ -18,11 +18,11 @@ of Lab Equipment.</h4>
 <p align="left"> 
   &emsp; 
   <a> 
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
+    <img alt="C" src="[https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
   </a> 
   &emsp;
   <a> 
-    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white">
+    <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   </a> 
   &emsp;
   <a>
@@ -30,11 +30,11 @@ of Lab Equipment.</h4>
   </a>
   &emsp;
   <a> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
+    <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
   </a>
   &emsp;
    <a>
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
+    <img alt="Python" src="[https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
   </a>
   
 </p>
