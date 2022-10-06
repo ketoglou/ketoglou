@@ -13,9 +13,7 @@ of Lab Equipment.</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=candida18&label=Profile%20views&color=0e75b6&style=plastic" alt="candida18" /> </p>
 
-## 🛠️ My Skills
-
-### 👉 Programming languages
+### 🛠️ Programming languages
 
 <p align="left"> 
   &emsp; 
@@ -26,6 +24,10 @@ of Lab Equipment.</h4>
   <a> 
     <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white">
   </a> 
+  &emsp;
+  <a>
+    <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
+  </a>
   &emsp;
   <a> 
     <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
