@@ -1,5 +1,5 @@
 
-<h1 align="center">Xaris Ketoglou <img src="https://github.com/ketoglou/profile_img/blob/main/solder.png" width="45"></h1>
+<h1 align="center">Xaris Ketoglou <img src="https://github.com/ketoglou/profile_img/blob/main/solder.png" width="85"></h1>
 <p align="center">
 <a><img src="https://github.com/ketoglou/profile_img/blob/main/mcu_circuit.gif"></a>
 </p>
@@ -18,7 +18,7 @@ of Lab Equipment.</h4>
 <p align="left"> 
   &emsp; 
   <a> 
-    <img alt="C" src="[https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
+    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
   </a> 
   &emsp;
   <a> 
@@ -34,7 +34,7 @@ of Lab Equipment.</h4>
   </a>
   &emsp;
    <a>
-    <img alt="Python" src="[https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
+    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
   </a>
   
 </p>
