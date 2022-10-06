@@ -1,5 +1,7 @@
 
-<h1 align="center"><img src="https://github.com/ketoglou/profile_img/blob/main/solder.png" width="105">Xaris Ketoglou <br/> Embedded Systems/Electronic Engineer</h1>
+<h1 align="center"><img src="https://github.com/ketoglou/profile_img/blob/main/solder.png" width="105"> <br/> 
+	Xaris Ketoglou <br/> Embedded Systems/Electronic Engineer</h1>
+	
 <p align="center">
 <a><img src="https://github.com/ketoglou/profile_img/blob/main/mcu_circuit.gif"></a>
 </p>
