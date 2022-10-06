@@ -1,7 +1,7 @@
 
-<h1 align="center">Xaris Ketoglou <img src="https://i.gifer.com/7qbG.mp4" width="35"></h1>
+<h1 align="center">Xaris Ketoglou <img src="https://github.com/ketoglou/profile_img/blob/main/if_smells.png" width="45"></h1>
 <p align="center">
-<a><img src="https://github.com/ketoglou/profile_img/blob/main/mcu_circuit.gif" width="35"></a>
+<a><img src="https://github.com/ketoglou/profile_img/blob/main/mcu_circuit.gif" width="60"></a>
 </p>
 <hr/>
 <h4 align="center">Experienced Electronic Engineer with a demonstrated history of working in the Embed-
